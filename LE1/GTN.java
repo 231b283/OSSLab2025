@@ -6,6 +6,6 @@ public class GTN{
 		int num1 = sc.nextInt();
 		int num2 = sc.nextInt();
 		
-		System.out.println("The maximum number is:  "+ Math.max(num1, num2));
+		System.out.println("The maximum number is: " + Math.max(num1, num2));
 	}
 }
